@@ -5,7 +5,7 @@ const BASE_URL = "https://api.legacyso.org";
 const SIM_ONLINE_URL = `${BASE_URL}/userapi/avatars/online`;
 const LOTS_ONLINE_URL = `${BASE_URL}/userapi/city/1/lots/online`;
 
-const STAFF_LIST_URL = "https://raw.githubusercontent.com/Akzelius/friendfinder/refs/heads/main/lso-staff-names.txt";
+const STAFF_LIST_URL = "https://raw.githubusercontent.com/Akzelius/legacyso-simfinder/refs/heads/main/lso-staff-names.txt";
 const RECENT_COMMIT_URL = "https://api.github.com/repos/sam-chug/dramaso-simfinder/branches/master";
 
 const NEWSPAPER_URL = "https://www.dramaso.org/newspaper.php?newspaper=1";
@@ -422,4 +422,5 @@ const CUSTOM_STYLE_INSET = {
         cssClass: `inset-darkgreen`
     }
 };
+
 //#endregion
