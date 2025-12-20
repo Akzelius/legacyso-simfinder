@@ -1,4 +1,4 @@
-const VERSION_STR = "v0.2.4h-lso";
+const VERSION_STR = "v0.2.4h-l";
 
 //#region API Links
 const BASE_URL = "https://api.legacyso.org";
@@ -424,6 +424,7 @@ const CUSTOM_STYLE_INSET = {
 };
 
 //#endregion
+
 
 
 
