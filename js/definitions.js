@@ -8,7 +8,7 @@ const LOTS_ONLINE_URL = `${BASE_URL}/userapi/city/1/lots/online`;
 const STAFF_LIST_URL = "https://raw.githubusercontent.com/Akzelius/legacyso-simfinder/refs/heads/main/lso-staff-names.txt";
 const RECENT_COMMIT_URL = "https://api.github.com/repos/Akzelius/legacyso-simfinder/branches/main";
 
-const NEWSPAPER_URL = "https://www.dramaso.org/newspaper.php?newspaper=1";
+const NEWSPAPER_URL = "https://raw.githubusercontent.com/Akzelius/legacyso-simfinder/refs/heads/main/smo.txt";
 //#endregion
 
 
@@ -424,4 +424,5 @@ const CUSTOM_STYLE_INSET = {
 };
 
 //#endregion
+
 
