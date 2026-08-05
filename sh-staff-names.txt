@@ -1,5 +1,0 @@
-{"staffNames": [
-    "Wyatt",
-    "Beary Wyatt",
-    "Wyatt Parker"
-]}
